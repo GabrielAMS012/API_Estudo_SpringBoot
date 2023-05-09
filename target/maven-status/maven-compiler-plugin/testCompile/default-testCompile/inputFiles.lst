@@ -1,0 +1,7 @@
+/home/sg/gabrielJ/estudo_springdevdojo/springboot2-essentials/src/test/java/academy/devdojo/springboot2/repository/AnimeRepositoryTest.java
+/home/sg/gabrielJ/estudo_springdevdojo/springboot2-essentials/src/test/java/academy/devdojo/springboot2/util/AnimePutRequestBodyCreator.java
+/home/sg/gabrielJ/estudo_springdevdojo/springboot2-essentials/src/test/java/academy/devdojo/springboot2/util/AnimePostRequestBodyCreator.java
+/home/sg/gabrielJ/estudo_springdevdojo/springboot2-essentials/src/test/java/academy/devdojo/springboot2/integration/AnimeControllerIT.java
+/home/sg/gabrielJ/estudo_springdevdojo/springboot2-essentials/src/test/java/academy/devdojo/springboot2/util/AnimeCreator.java
+/home/sg/gabrielJ/estudo_springdevdojo/springboot2-essentials/src/test/java/academy/devdojo/springboot2/Springboot2EssentialsApplicationTests.java
+/home/sg/gabrielJ/estudo_springdevdojo/springboot2-essentials/src/test/java/academy/devdojo/springboot2/controller/AnimeControllerTest.java

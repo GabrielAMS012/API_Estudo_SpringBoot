@@ -7,6 +7,7 @@ import academy.devdojo.springboot2.service.AnimeService;
 import academy.devdojo.springboot2.util.AnimeCreator;
 import academy.devdojo.springboot2.util.AnimePostRequestBodyCreator;
 import academy.devdojo.springboot2.util.AnimePutRequestBodyCreator;
+import org.assertj.core.api.Assert;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
@@ -68,6 +69,18 @@ class AnimeControllerTest {
 
         Assertions.assertThat(animePage.toList().get(0).getName()).isEqualTo(expectedName);
 
+    }
+
+    @Test
+    @DisplayName("listAll returns list of anime when successful")
+    void listAll_ReturnsListOfAnimes_WhenSuccessful(){
+        String expectedName = AnimeCreator.createValidAnime().getName();
+
+        List<Anime> animes = animeController.listAll().getBody();
+
+        Assertions.assertThat(animes).isNotNull().isNotEmpty().hasSize(1);
+
+        Assertions.assertThat(animes.get(0).getName()).isEqualTo(expectedName);
     }
 
     @Test

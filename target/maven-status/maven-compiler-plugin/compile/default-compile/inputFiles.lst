@@ -1,0 +1,17 @@
+/home/sg/gabrielJ/estudo_springdevdojo/springboot2-essentials/src/main/java/academy/devdojo/springboot2/Springboot2EssentialsApplication.java
+/home/sg/gabrielJ/estudo_springdevdojo/springboot2-essentials/src/main/java/academy/devdojo/springboot2/handler/RestExceptionHandler.java
+/home/sg/gabrielJ/estudo_springdevdojo/springboot2-essentials/src/main/java/academy/devdojo/springboot2/exception/ExceptionDetails.java
+/home/sg/gabrielJ/estudo_springdevdojo/springboot2-essentials/src/main/java/academy/devdojo/springboot2/exception/BadRequestExceptionDetails.java
+/home/sg/gabrielJ/estudo_springdevdojo/springboot2-essentials/src/main/java/academy/devdojo/springboot2/domain/Anime.java
+/home/sg/gabrielJ/estudo_springdevdojo/springboot2-essentials/src/main/java/academy/devdojo/springboot2/configurer/GabrielAMSWebMvcConfigurer.java
+/home/sg/gabrielJ/estudo_springdevdojo/springboot2-essentials/src/main/java/academy/devdojo/springboot2/requests/AnimePostRequestBody.java
+/home/sg/gabrielJ/estudo_springdevdojo/springboot2-essentials/src/main/java/academy/devdojo/springboot2/controller/AnimeController.java
+/home/sg/gabrielJ/estudo_springdevdojo/springboot2-essentials/src/main/java/academy/devdojo/springboot2/service/AnimeService.java
+/home/sg/gabrielJ/estudo_springdevdojo/springboot2-essentials/src/main/java/academy/devdojo/springboot2/exception/ValidationExceptionDetails.java
+/home/sg/gabrielJ/estudo_springdevdojo/springboot2-essentials/src/main/java/academy/devdojo/springboot2/wraper/PageableResponse.java
+/home/sg/gabrielJ/estudo_springdevdojo/springboot2-essentials/src/main/java/academy/devdojo/springboot2/repository/AnimeRepository.java
+/home/sg/gabrielJ/estudo_springdevdojo/springboot2-essentials/src/main/java/academy/devdojo/springboot2/mapper/AnimeMapper.java
+/home/sg/gabrielJ/estudo_springdevdojo/springboot2-essentials/src/main/java/academy/devdojo/springboot2/exception/BadRequestException.java
+/home/sg/gabrielJ/estudo_springdevdojo/springboot2-essentials/src/main/java/academy/devdojo/springboot2/requests/AnimePutRequestBody.java
+/home/sg/gabrielJ/estudo_springdevdojo/springboot2-essentials/src/main/java/academy/devdojo/springboot2/util/DateUtil.java
+/home/sg/gabrielJ/estudo_springdevdojo/springboot2-essentials/src/main/java/academy/devdojo/springboot2/client/SpringClient.java
